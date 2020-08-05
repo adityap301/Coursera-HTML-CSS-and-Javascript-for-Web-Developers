@@ -75,3 +75,11 @@ div div{
     width: 100%;
   }
 }
+
+/* For Mobiles */
+@media (max-width: 767px) {
+  .col-sm-12 {
+    float: left;
+    width: 100%;
+  }
+}
