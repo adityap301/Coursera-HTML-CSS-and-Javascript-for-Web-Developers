@@ -1,0 +1,62 @@
+.container-fluid {
+  padding: 0;
+  overflow: hidden;
+}
+
+.navbar-default, .navbar {
+  background-color: black;
+}
+
+.navbar-default > .container-fluid {
+  background-color: gray;
+}
+
+#navbar {
+  border-radius: 0;
+  background: gray;
+}
+
+@media (max-width:768px) {
+  .navbar-default .navbar-collapse, .navbar-default .navbar-form {
+    background: white;
+  }
+}
+
+.navbar-default .navbar-brand {
+  color: black;
+  font-size: 2em;
+  padding-left: 40px;
+}
+
+.navbar-toggle {
+  margin-right: 20px;
+}
+
+.navbar-default .navbar-toggle {
+  border-color: black;
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+  background-color: black;
+}
+
+.navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
+  background-color: gray;
+} 
+
+.nav>li {
+  border-bottom: 1px black solid;
+}
+
+.navbar-default .navbar-nav>li>a {
+  color: black;
+  font-size: 1.5em;
+}
+
+#text-content {
+  background-color: gray;
+  color: black;
+  padding: 20px;
+  margin-top: 20px;
+}
+
