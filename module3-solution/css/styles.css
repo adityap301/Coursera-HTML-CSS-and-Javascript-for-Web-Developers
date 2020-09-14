@@ -20,6 +20,10 @@
   .navbar-default .navbar-collapse, .navbar-default .navbar-form {
     background: white;
   }
+  #text-content {
+    margin: 50px;
+  }
+  
 }
 
 .navbar-default .navbar-brand {
