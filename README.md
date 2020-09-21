@@ -15,3 +15,5 @@
 2. [Solution](https://adityap301.github.io/coursera-web-dev/module4-solution/)
 
 ### Module-5
+1. [Description](https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment5/Assignment-5.md)
+2. [Solution](https://adityap301.github.io/coursera-web-dev/module5-solution/)
